@@ -1,1 +1,1 @@
-TS1
+# Basic Typescript Functionality
